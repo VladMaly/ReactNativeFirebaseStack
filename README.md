@@ -23,4 +23,4 @@ There is no hot-reloading at the moment, so meaning, you will have to stop the s
 
 yarn android and npm android simply just refer to the script inside package.json, where you can see all the scripts, in this case it calls 'react-native run-android'.
 
-When running react-native run-android, this simply starts the server. When you launch the app, it will try to connect by adress to that server, launched via the terminal command.
+When running react-native run-android, this simply starts the server. When you launch the app, it will try to connect by address to that server, launched via the terminal command.
